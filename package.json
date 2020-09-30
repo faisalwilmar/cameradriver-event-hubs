@@ -1,0 +1,15 @@
+{
+  "name": "event-hub-producer",
+  "version": "1.0.0",
+  "description": "Azure Event Hub Speed Camera Message Producer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Faisal Wilmar",
+  "license": "",
+  "dependencies": {
+    "@azure/event-hubs": "^5.2.2"
+  }
+}
