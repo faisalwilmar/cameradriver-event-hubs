@@ -1,0 +1,2 @@
+https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services
+https://www.npmjs.com/package/@azure/event-hubs?spm=a2c6h.14275010.0.0.3f276fb1A8SYOh
